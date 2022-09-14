@@ -1,5 +1,5 @@
 ---
-license: mit
+license: apache-2.0
 ---
 # layoutlmv3-base-finetuned-publaynet
 
@@ -11,10 +11,10 @@ This finetuned model achieves an overall mAP @ IOU [0.50:0.95] of 95.1 on the Pu
 
 If you find LayoutLMv3 helpful, please cite the following paper:
 ```
-@article{huang2022layoutlmv3,
-  title={LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking},
+@inproceedings{huang2022layoutlmv3,
   author={Yupan Huang and Tengchao Lv and Lei Cui and Yutong Lu and Furu Wei},
-  journal={arXiv preprint arXiv:2204.08387},
+  title={LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
   year={2022}
 }
 ```
