@@ -1,5 +1,5 @@
 ---
-license: apache-2.0
+license: mit
 ---
 # layoutlmv3-base-finetuned-publaynet
 
@@ -18,3 +18,10 @@ If you find LayoutLMv3 helpful, please cite the following paper:
   year={2022}
 }
 ```
+
+
+## License
+
+MIT License.
+Portions of the source code are based on the [transformers](https://github.com/huggingface/transformers) project.
+[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct)
